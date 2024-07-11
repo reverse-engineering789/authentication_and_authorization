@@ -1,0 +1,44 @@
+# Node.js dependencies
+node_modules/
+
+# Generated files
+npm-debug.log
+yarn-error.log
+
+# OS generated files   
+.DS_Store
+Thumbs.db
+
+# Editor/IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Ignore npm's local directory
+.npm/
+
+# Compiled binary addons (node-gyp)
+build/
+
+# Dependency directories
+jspm_packages/
+
+# TypeScript build products
+*.tsbuildinfo
+
+# Optional: Ignore package-lock.json if you're using npm <= 5
+# package-lock.json
+
+# Optional: Ignore yarn.lock if you're using yarn as your package manager
+# yarn.lock
+
+# Optional: Ignore dist directory if you have one
+# dist/
+
+# Optional: Ignore coverage directory for code coverage results
+# coverage/
